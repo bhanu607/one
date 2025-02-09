@@ -220,7 +220,7 @@
     </section>
 
     <footer>
-        <p>© 2024 bhanu | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
+        <p>© 2024 bhanu prakash reddy | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
     </footer>
 </body>
 </html>
